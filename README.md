@@ -1,5 +1,5 @@
 - # Hi there 👋, I'm Fitron Nurul Ihsan
-  ![Keep Going](img/Never%20Give%20Up%20Fighting%20GIF.gif)
+  ![Header](img/github-header-banner.png)
 
 Frontend Web Developer & IT Support Enthusiast
 
@@ -61,3 +61,5 @@ Frontend Web Developer & IT Support Enthusiast
 - Complete Dicoding Front-End Developer learning path
 - Build portfolio projects
 - Improve JavaScript skills
+
+![Keep Going](img/Never%20Give%20Up%20Fighting%20GIF.gif)

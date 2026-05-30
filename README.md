@@ -61,5 +61,3 @@ Frontend Web Developer & IT Support Enthusiast
 - Complete Dicoding Front-End Developer learning path
 - Build portfolio projects
 - Improve JavaScript skills
-
-![Keep Going](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ6Nm5nNWxzdmo5M29jd3MwcDVvbzZvcmsxZmd1c25mMmNqN2NiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8O4eYCIlsDH0ho8BvL/giphy.gif)
